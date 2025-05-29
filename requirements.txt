@@ -1,0 +1,8 @@
+nltk
+sklearn
+pandas
+seaborn
+matplotlib
+yfinance
+ta-lib
+pynance
